@@ -1,0 +1,7 @@
+-- Boas vindas e apresentar os produtos (link)
+
+-- Vendas (verificar código do produto ou o nome do produto)
+
+-- resumo dos produtos (informações dos produtos + total do valor) resumo
+
+-- Encerramento
